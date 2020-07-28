@@ -4,6 +4,9 @@
 - Nacimiento, Francisco Martin
 - Senghaas, Evelin Yaneth
 
+## Store
+En este [repositorio](https://github.com/martinnacimiento/laboratorio3-SISTDIST2020) se encuentra el proyecto de almacenes que trabaja en conjunto a este proyecto.
+
 ## Vision
 El gestor de almacénes consiste en ser un nodo especial encargado de:
 - **Particionar** el almacenamiento de claves-valores en nodos de forma aproximadamente uniforme.
